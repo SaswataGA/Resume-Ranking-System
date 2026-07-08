@@ -1,0 +1,48 @@
+FRANK MARTINEZ
+frank.martinez@email.com | (555) 678-9012 | linkedin.com/in/frankmartinez
+
+SUMMARY
+DevOps and Cloud Engineer with 6 years of experience in infrastructure, CI/CD, and deploying
+ML systems. Strong background in Kubernetes, Docker, AWS, and automation. Recently expanding
+into MLOps and machine learning deployment.
+
+SKILLS
+Cloud: AWS (EC2, S3, EKS, Lambda, SageMaker basics), GCP, Azure
+DevOps: Docker, Kubernetes, Terraform, Jenkins, Git, GitHub Actions, Ansible
+Infrastructure: Linux, Bash scripting, Networking
+Databases: PostgreSQL, MySQL, Redis, MongoDB
+Data: Apache Kafka, Airflow basics, Spark basics
+MLOps: MLflow, Docker-based model serving
+Programming: Python (scripting), Go, Java, SQL
+Monitoring: Prometheus, Grafana, ELK stack (Elasticsearch, Logstash, Kibana)
+Soft skills: Agile, Scrum, communication, leadership
+
+EXPERIENCE
+
+Senior DevOps Engineer | CloudNative Corp | 2020 - Present
+- Managed Kubernetes clusters for ML model deployment across AWS EKS (100+ microservices)
+- Built CI/CD pipelines with Jenkins, Docker, Git for rapid model deployment
+- Implemented Terraform infrastructure-as-code for reproducible cloud environments on AWS and GCP
+- Set up MLflow model registry and deployment pipelines for data science team
+- Managed Apache Kafka data streaming infrastructure for real-time ML inference
+- Led Agile teams using Scrum methodology
+
+DevOps Engineer | SaaS Company | 2018 - 2020
+- Deployed containerized applications using Docker and Kubernetes on AWS
+- Automated infrastructure with Ansible and Terraform
+- Managed PostgreSQL, Redis, and MongoDB database clusters
+- Built monitoring dashboards with Prometheus and Grafana
+- Used Apache Airflow for workflow orchestration
+
+Systems Administrator | Enterprise Corp | 2017 - 2018
+- Managed Linux servers and networking infrastructure
+- Automated tasks with Bash and Python scripting
+
+EDUCATION
+Bachelor of Science in Information Technology
+Arizona State University | 2017
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer Professional (2021)
+- Certified Kubernetes Administrator (CKA) (2020)
+- Terraform Associate (2021)

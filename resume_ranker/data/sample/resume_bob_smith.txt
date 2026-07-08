@@ -1,0 +1,51 @@
+BOB SMITH
+bob.smith@email.com | (555) 234-5678 | linkedin.com/in/bobsmith
+
+SUMMARY
+Machine Learning Engineer with 5 years of experience in deep learning and data engineering.
+Experienced in building scalable ML pipelines on AWS and GCP. Strong background in NLP and computer vision.
+
+TECHNICAL SKILLS
+Languages: Python, SQL, R, JavaScript
+ML/AI: PyTorch, TensorFlow, Scikit-learn, Keras, BERT, Transformers
+Data: Pandas, NumPy, Apache Spark, Kafka, Airflow
+Cloud: AWS (EC2, S3, SageMaker), GCP
+Databases: MySQL, PostgreSQL, MongoDB
+DevOps: Docker, Kubernetes, Git, Jenkins
+Visualization: Matplotlib, Seaborn, Tableau
+Other: MLflow, Agile/Scrum
+
+WORK EXPERIENCE
+
+Machine Learning Engineer | CloudTech Solutions | 2020 - Present
+- Designed NLP models for text classification and sentiment analysis using BERT (Python, PyTorch)
+- Built data pipelines with Apache Spark on AWS to process 5TB daily
+- Deployed ML models on Kubernetes using Docker containers
+- Integrated MLflow for experiment tracking and model registry
+- Reduced model training time by 30% using distributed computing with Spark
+- Collaborated with cross-functional teams using Agile methodology
+
+Junior ML Engineer | DataLab | 2019 - 2020
+- Developed computer vision models for image classification (TensorFlow, Keras)
+- Created ETL pipelines using Apache Airflow and PostgreSQL
+- Worked with MongoDB for storing and querying unstructured data
+- Contributed to CI/CD pipelines with Jenkins and Git
+
+Data Analyst | Analytics Firm | 2018 - 2019
+- Built predictive models using Scikit-learn and Python
+- Analyzed datasets with Pandas and NumPy
+- Created reports using Tableau for business teams
+- Wrote complex SQL queries for PostgreSQL databases
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Michigan | 2018
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect (2021)
+- TensorFlow Developer Certificate (2020)
+
+PROJECTS
+- Sentiment analysis API deployed on AWS Lambda
+- Personal Kaggle projects: NLP and tabular data competitions (top 15%)

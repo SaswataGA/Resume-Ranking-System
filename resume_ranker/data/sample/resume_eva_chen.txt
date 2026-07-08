@@ -1,0 +1,56 @@
+EVA CHEN
+eva.chen@email.com | (555) 567-8901 | github.com/evachen-nlp
+
+PROFESSIONAL SUMMARY
+NLP Research Engineer with 6 years specializing in transformer models, large language models, and
+production NLP systems. PhD in Computational Linguistics. Published researcher with hands-on
+industry experience deploying BERT, GPT, and custom LLMs at scale.
+
+CORE COMPETENCIES
+NLP & ML: BERT, GPT, LLM, Transformers, Hugging Face, PyTorch, TensorFlow, Scikit-learn,
+           Named Entity Recognition, Text Classification, Semantic Search, Natural Language Processing
+           Machine Learning, Deep Learning, Computer Vision (basic)
+Programming: Python, Scala, Go, SQL, Bash
+Data Engineering: Apache Spark, Kafka, Airflow, dbt, Hadoop
+Databases: PostgreSQL, Elasticsearch, Redis, MongoDB
+Cloud & DevOps: AWS (SageMaker, S3, EC2), GCP, Docker, Kubernetes, Git, Jenkins
+MLOps: MLflow, Weights & Biases, BentoML
+Other: Agile, Scrum, Technical Writing
+
+PROFESSIONAL EXPERIENCE
+
+Senior NLP Engineer | AI Research Lab | 2021 - Present
+- Led research and productionization of large language models (GPT-based) for enterprise search
+- Fine-tuned BERT variants for 12+ downstream NLP tasks; achieved SOTA on 3 internal benchmarks
+- Built scalable NLP inference pipeline handling 1M+ requests/day on AWS SageMaker + Kubernetes
+- Developed semantic search using dense retrieval (DPR) with Elasticsearch and Redis caching
+- Published 2 research papers on efficient transformer training (NeurIPS 2022, ICML 2023)
+- Mentored 4 junior engineers; led NLP reading group
+
+NLP Engineer | TechCorp | 2019 - 2021
+- Built production text classification and NER pipelines using PyTorch and Hugging Face
+- Designed and maintained MLOps infrastructure with MLflow and Docker on GCP
+- Implemented distributed data processing with Apache Spark for terabyte-scale NLP datasets
+- Created CI/CD pipelines using Jenkins and Git for model versioning and deployment
+
+Research Scientist Intern | AI Company | 2018
+- Implemented seq2seq models for machine translation using TensorFlow
+- Processed large text corpora with Apache Spark and Hadoop
+
+EDUCATION
+PhD in Computational Linguistics (Machine Learning Focus)
+Carnegie Mellon University | 2019
+Dissertation: "Efficient Transfer Learning for Low-Resource NLP"
+
+Bachelor of Science in Computer Science
+University of Illinois | 2015
+
+CERTIFICATIONS
+- AWS Certified Machine Learning Specialty (2022)
+- Kubernetes Certified Application Developer (CKAD) (2022)
+- Deep Learning Specialization (Coursera) (2018)
+
+PUBLICATIONS
+- "Efficient Adapter-Based Fine-tuning for BERT" — NeurIPS Workshop 2022
+- "Cross-lingual Transfer for Low-Resource NER" — ICML 2023
+- "Dense Passage Retrieval for Production Search Systems" — EMNLP 2021

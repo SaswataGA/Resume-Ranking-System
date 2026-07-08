@@ -1,0 +1,34 @@
+{
+  "ground_truth": {
+    "job_description.txt": {
+      "relevant_resumes": [
+        "resume_alice_johnson.txt",
+        "resume_eva_chen.txt",
+        "resume_bob_smith.txt"
+      ],
+      "highly_relevant": [
+        "resume_alice_johnson.txt",
+        "resume_eva_chen.txt"
+      ],
+      "somewhat_relevant": [
+        "resume_frank_martinez.txt",
+        "resume_carol_williams.txt"
+      ],
+      "not_relevant": [
+        "resume_david_lee.txt"
+      ]
+    }
+  },
+  "relevance_scores": {
+    "resume_alice_johnson.txt": 5,
+    "resume_eva_chen.txt": 5,
+    "resume_bob_smith.txt": 4,
+    "resume_frank_martinez.txt": 2,
+    "resume_carol_williams.txt": 2,
+    "resume_david_lee.txt": 1
+  },
+  "notes": {
+    "scoring": "1=not relevant, 2=partially relevant, 3=relevant, 4=very relevant, 5=highly relevant",
+    "threshold": "Scores >= 3 are considered relevant for Precision@K and Recall@K"
+  }
+}

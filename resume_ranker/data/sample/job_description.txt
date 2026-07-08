@@ -1,0 +1,45 @@
+Senior Machine Learning Engineer
+
+Company: TechCorp AI Solutions
+Location: San Francisco, CA (Hybrid)
+Job Type: Full-time
+
+About the Role:
+We are looking for a Senior Machine Learning Engineer to join our growing AI team.
+You will design, build, and deploy large-scale ML systems that power our recommendation
+and search products. You will work closely with data scientists, product managers, and
+software engineers to deliver impactful ML solutions.
+
+Responsibilities:
+- Design and implement production ML pipelines using Python and MLOps best practices
+- Build and fine-tune deep learning models using PyTorch and TensorFlow
+- Develop and maintain NLP systems for text classification, named entity recognition, and semantic search
+- Deploy models to cloud infrastructure (AWS, GCP) using Docker and Kubernetes
+- Work with large datasets using Apache Spark and data warehousing tools
+- Collaborate with data engineers on ETL pipelines using Apache Kafka and Airflow
+- Implement A/B testing frameworks and monitor model performance in production
+- Mentor junior engineers and contribute to technical documentation
+- Participate in code reviews and ensure code quality through CI/CD pipelines with Jenkins and Git
+
+Required Qualifications:
+- 5+ years of experience in machine learning engineering or data science
+- Proficiency in Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow)
+- Strong understanding of NLP, deep learning, and computer vision
+- Experience with SQL and NoSQL databases (PostgreSQL, MongoDB, Redis)
+- Hands-on experience with cloud platforms: AWS (SageMaker, EC2, S3), GCP, or Azure
+- Familiarity with Docker, Kubernetes, and CI/CD pipelines
+- Knowledge of distributed computing frameworks: Apache Spark, Hadoop
+- Experience with MLOps tools: MLflow, Weights & Biases
+- Bachelor's or Master's degree in Computer Science, Mathematics, or related field
+- Strong communication skills and ability to work in Agile/Scrum teams
+
+Preferred Qualifications:
+- PhD in Machine Learning, Computer Science, or related field
+- Experience with BERT, GPT, or other transformer-based models
+- Publications in top ML conferences (NeurIPS, ICML, ICLR)
+- Experience with Rust or Scala
+- AWS Certified Machine Learning Specialty certification
+
+Compensation:
+- Salary: $180,000 - $240,000
+- Equity, bonus, and comprehensive benefits

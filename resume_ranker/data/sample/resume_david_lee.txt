@@ -1,0 +1,39 @@
+DAVID LEE
+david.lee@email.com | (555) 456-7890
+
+SUMMARY
+Recent computer science graduate looking for opportunities in software development or data engineering.
+
+TECHNICAL SKILLS
+- Java programming
+- Basic Python
+- HTML/CSS/JavaScript
+- MySQL
+- Some experience with Excel
+
+EXPERIENCE
+
+Software Developer Intern | Small Company | 2023
+- Developed web applications using Java and HTML
+- Wrote SQL queries for MySQL database
+- Fixed bugs in existing codebase
+- Learned Git basics
+
+Part-time Tutor | University | 2022 - 2023
+- Tutored undergraduate students in introductory programming
+- Helped students understand Java and Python basics
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2023
+GPA: 3.2/4.0
+
+PROJECTS
+- Built a simple to-do app in Java
+- Personal website with HTML/CSS
+- Basic machine learning course project (linear regression)
+
+INTERESTS
+- Machine learning and AI
+- Web development
+- Video games

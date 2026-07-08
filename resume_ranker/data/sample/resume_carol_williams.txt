@@ -1,0 +1,48 @@
+CAROL WILLIAMS
+carol.williams@email.com | (555) 345-6789
+
+OBJECTIVE
+Seeking a Machine Learning position to leverage my data science and Python programming skills.
+
+SKILLS
+- Python programming
+- Machine learning (Scikit-learn, some TensorFlow)
+- Data analysis with Pandas and NumPy
+- SQL databases
+- Basic Docker experience
+- Git version control
+- R programming
+- Statistics and probability
+
+EXPERIENCE
+
+Data Scientist | Mid-size Retail Company | 2021 - Present
+- Built sales forecasting models using Scikit-learn and Python
+- Analyzed customer behavior data with Pandas and SQL
+- Created visualizations with Matplotlib and Seaborn
+- Worked with PostgreSQL databases for data extraction
+- Used Git for version control
+
+Junior Data Scientist | Consulting Firm | 2019 - 2021
+- Performed statistical analysis and A/B testing
+- Built logistic regression and decision tree models
+- Created Excel reports and basic Tableau dashboards
+- Assisted senior data scientists with feature engineering
+
+Intern | Tech Startup | 2018
+- Data cleaning and preprocessing with Python
+- Basic SQL queries
+- Exploratory data analysis
+
+EDUCATION
+Bachelor of Science in Statistics
+Ohio State University | 2018
+GPA: 3.5/4.0
+
+CERTIFICATIONS
+- Python for Data Science - Coursera (2019)
+- SQL Bootcamp - Udemy (2018)
+
+PROJECTS
+- Housing price prediction model (Scikit-learn)
+- Customer churn analysis
