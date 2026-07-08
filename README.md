@@ -1,6 +1,3 @@
-**Here's a clean, professional, and well-formatted `README.md`** for your project:
-
----
 
 ```markdown
 # Resume Ranking System with Explainable AI
